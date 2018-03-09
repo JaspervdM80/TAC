@@ -2,8 +2,19 @@
   <PropertyGroup>
     <Site Server="events.tac.local" UserName="sitecore\admin" IsRemoteSitecore="False" />
   </PropertyGroup>
-  <File Include="Views\TAC\Events\Layouts\events.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0" />
-  <File Include="/Views/TAC/Events/Layouts/events.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
-    <Item DatabaseName="master">{6762016F-5E77-4AA2-8CB2-FA55A33795B5}</Item>
+  <File Include="Views\TAC\Events\TwoColumn.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{BB575AB1-22EB-4DDC-A772-942146C16F82}</Item>
+  </File>
+  <File Include="Views\TAC\Events\HomeContemt.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{40E39062-07C7-4F5F-93A0-F8D4377EA6FD}</Item>
+  </File>
+  <File Include="Views\TAC\Events\OneColumn.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{45C1E48B-096B-4E64-9EF7-B3DEDB13220D}</Item>
+  </File>
+  <File Include="Views\TAC\Events\PageContent.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{8DD71664-B83C-41DE-A0EC-11D6905B7A58}</Item>
+  </File>
+  <File Include="Views\TAC\Events\SideContent.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{CBBE8E44-299A-492C-8CAF-C333646DA7EA}</Item>
   </File>
 </Project>
