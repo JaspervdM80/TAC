@@ -16,7 +16,6 @@ D:\Projects\TAC\events.tac.local\bin\System.Web.Webpages.Deployment.xml
 D:\Projects\TAC\events.tac.local\bin\System.Web.Webpages.Razor.xml
 D:\Projects\TAC\events.tac.local\bin\System.Web.Helpers.xml
 D:\Projects\TAC\events.tac.local\bin\System.Web.Mvc.xml
-D:\Projects\TAC\events.tac.local\obj\Debug\events.tac.local.csprojResolveAssemblyReference.cache
 D:\Projects\TAC\events.tac.local\obj\Debug\events.tac.local.csproj.CoreCompileInputs.cache
 D:\Projects\TAC\events.tac.local\obj\Debug\events.tac.local.dll
 D:\Projects\TAC\events.tac.local\obj\Debug\events.tac.local.pdb

@@ -20,3 +20,16 @@ D:\Projects\TAC\events.tac.local.Tests\obj\Debug\events.tac.local.Tests.csprojRe
 D:\Projects\TAC\events.tac.local.Tests\obj\Debug\events.tac.local.Tests.csproj.CoreCompileInputs.cache
 D:\Projects\TAC\events.tac.local.Tests\obj\Debug\events.tac.local.Tests.dll
 D:\Projects\TAC\events.tac.local.Tests\obj\Debug\events.tac.local.Tests.pdb
+D:\Projects\tac\events.tac.local.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Projects\tac\events.tac.local.Tests\bin\Debug\Sitecore.Kernel.dll
+D:\Projects\tac\events.tac.local.Tests\bin\Debug\Sitecore.Mvc.dll
+D:\Projects\tac\events.tac.local.Tests\bin\Debug\System.Web.Razor.dll
+D:\Projects\tac\events.tac.local.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Projects\tac\events.tac.local.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Projects\tac\events.tac.local.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Projects\tac\events.tac.local.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Projects\tac\events.tac.local.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Projects\tac\events.tac.local.Tests\bin\Debug\System.Web.Razor.xml
+D:\Projects\tac\events.tac.local.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Projects\tac\events.tac.local.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Projects\tac\events.tac.local.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
