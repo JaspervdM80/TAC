@@ -37,3 +37,4 @@ D:\Projects\tac\events.tac.local\bin\Microsoft.VisualStudio.TextManager.Interop.
 D:\Projects\tac\events.tac.local\bin\stdole.dll
 D:\Projects\tac\events.tac.local\bin\Microsoft.MSXML.dll
 D:\Projects\tac\events.tac.local\bin\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Projects\tac\events.tac.local\obj\Debug\events.tac.local.csprojResolveAssemblyReference.cache
