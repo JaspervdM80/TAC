@@ -1,0 +1,8 @@
+﻿
+@model IEnumerable<events.tac.local.Models.NavigationItem>
+<ol class="breadcrumb">
+    @foreach (var item in Model)
+    {
+        <li class="@(item.Active ? "active" : string.Empty)"><a href="@item.URL">@item.Title</a></li>
+    }
+</ol>

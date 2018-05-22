@@ -33,3 +33,6 @@ D:\Projects\tac\events.tac.local.Tests\bin\Debug\System.Web.Razor.xml
 D:\Projects\tac\events.tac.local.Tests\bin\Debug\System.Web.WebPages.Razor.xml
 D:\Projects\tac\events.tac.local.Tests\bin\Debug\System.Web.WebPages.xml
 D:\Projects\tac\events.tac.local.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Projects\tac\events.tac.local.Tests\bin\Debug\TAC.Sitecore.Abstractions.dll
+D:\Projects\tac\events.tac.local.Tests\bin\Debug\TAC.Sitecore.Abstractions.pdb
+D:\Projects\tac\events.tac.local.Tests\bin\Debug\OrderedTest1.orderedtest

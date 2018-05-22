@@ -111,9 +111,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Business\BreadcrumbBuilder.cs" />
+    <Compile Include="Business\NavigationBuilder.cs" />
+    <Compile Include="Controllers\BreadcrumbController.cs" />
     <Compile Include="Controllers\EventIntroController.cs" />
     <Compile Include="Models\EventIntro.cs" />
     <Compile Include="Models\NavigationItem.cs" />
+    <Compile Include="Models\NavigationMenuItem.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -235,6 +239,7 @@
     <Content Include="Views\TAC\Events\SideContent.cshtml" />
     <Content Include="Views\TAC\Events\FeatureRow.cshtml" />
     <Content Include="Views\TAC\Events\FeaturedEvent.cshtml" />
+    <Content Include="Views\Breadcrumb\Index.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -248,6 +253,7 @@
       <Name>TAC.Sitecore.Abstractions</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
