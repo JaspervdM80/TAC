@@ -9,6 +9,9 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <_PublishTargetUrl>D:\Projects\tac\sandbox\events.tac.local</_PublishTargetUrl>
   </PropertyGroup>
   <ItemGroup>
+    <File Include="App_Config/Include/TAC/Events/events.site.config">
+      <publishTime>05/22/2018 20:29:13</publishTime>
+    </File>
     <File Include="bin/EnvDTE.dll">
       <publishTime>02/28/2018 11:14:43</publishTime>
     </File>
@@ -16,10 +19,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>02/28/2018 11:14:43</publishTime>
     </File>
     <File Include="bin/events.tac.local.dll">
-      <publishTime>05/11/2018 12:09:01</publishTime>
+      <publishTime>05/22/2018 22:38:42</publishTime>
     </File>
     <File Include="bin/events.tac.local.pdb">
-      <publishTime>05/11/2018 12:09:01</publishTime>
+      <publishTime>05/22/2018 22:38:42</publishTime>
     </File>
     <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
       <publishTime>08/15/2017 14:12:32</publishTime>
@@ -226,10 +229,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>01/28/2015 04:04:30</publishTime>
     </File>
     <File Include="bin/TAC.Sitecore.Abstractions.dll">
-      <publishTime>05/11/2018 12:08:56</publishTime>
+      <publishTime>05/22/2018 21:52:05</publishTime>
     </File>
     <File Include="bin/TAC.Sitecore.Abstractions.pdb">
-      <publishTime>05/11/2018 12:08:56</publishTime>
+      <publishTime>05/22/2018 21:52:05</publishTime>
     </File>
     <File Include="Css/addition.css">
       <publishTime>03/07/2018 16:16:06</publishTime>
@@ -546,6 +549,9 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="Views/EventIntro/Index.cshtml">
       <publishTime>03/08/2018 16:28:56</publishTime>
     </File>
+    <File Include="Views/RelatedEvents/Index.cshtml">
+      <publishTime>05/22/2018 22:25:33</publishTime>
+    </File>
     <File Include="Views/TAC/Events/FeaturedEvent.cshtml">
       <publishTime>04/09/2018 21:58:39</publishTime>
     </File>
@@ -571,7 +577,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>03/09/2018 15:28:51</publishTime>
     </File>
     <File Include="Views/TAC/Events/SideContent.cshtml">
-      <publishTime>03/09/2018 15:05:27</publishTime>
+      <publishTime>05/22/2018 22:22:03</publishTime>
     </File>
     <File Include="Views/TAC/Events/TwoColumn.cshtml">
       <publishTime>03/09/2018 15:35:58</publishTime>
